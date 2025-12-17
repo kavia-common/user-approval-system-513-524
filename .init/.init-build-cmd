@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py",
+    "working_directory": "/tmp/kavia/workspace/code-generation/user-approval-system-513-524/task_management_database"
+}
